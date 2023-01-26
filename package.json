@@ -1,0 +1,19 @@
+{
+  "name": "web_pynecon",
+  "version": "1.0.0",
+  "description": "A pynecon based web. Just trying out,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAHMUD1223/web_pynecon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAHMUD1223/web_pynecon/issues"
+  },
+  "homepage": "https://github.com/MAHMUD1223/web_pynecon#readme"
+}
