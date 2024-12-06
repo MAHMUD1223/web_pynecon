@@ -26,7 +26,7 @@ sniffio==1.3.0
 SQLAlchemy==1.4.41
 sqlalchemy2-stubs==0.0.2a32
 sqlmodel==0.0.8
-starlette==0.27.0
+starlette==0.40.0
 tenacity==8.2.2
 typer==0.4.2
 typing_extensions==4.5.0
